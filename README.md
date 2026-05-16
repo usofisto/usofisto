@@ -29,5 +29,4 @@
 
 ###  Статистика:
 
-![usofisto's GitHub stats](https://github-readme-stats.vercel.app/api?username=usofisto&show_icons=true&theme=radial&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usofisto&layout=compact&theme=radial)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cmZ6eWxjYzkwN3R0d3NiaWZ1cXo0YmcyYjNsc3p5bmd4ZXN3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S60CrN9p7GsGlf8N67/giphy.gif" width="120"/>
