@@ -1,17 +1,19 @@
-#  Systems Engineer | Vibe Architect 
+#   Systems Engineer | Vibe Architect 
 
 > "Embracing the Void, Architecting Reality." 
 
-Привет! Я занимаюсь системной разработкой, пишу производительный код и делаю все по кайфу.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiY21nd3R4ZWw0M2p0cDR2M2g0ZXB5Y2g1Z3B0ZzBneDZ0eXFpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43G8LkgK9G2tc7e6dO/giphy.gif" width="100"/>
+
+Привет! Я занимаюсь системной разработкой, пишу производительный код и раскачиваю навыки в балдеже.
 
 ---
 
-### Технологический стек:
+### 🛠 Технологический стек:
 
 **Languages:**
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **C++**
-* ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=black) **C**       *(в процессе изучения )*
-* ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**   *(в процессе изучения )*
+* ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=black) **C** *(в процессе изучения)*
+* ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python** *(в процессе изучения)*
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) **TypeScript** *(в процессе изучения )*
 
 **Web Development (Frontend):**
@@ -29,4 +31,7 @@
 
 ###  Статистика:
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cmZ6eWxjYzkwN3R0d3NiaWZ1cXo0YmcyYjNsc3p5bmd4ZXN3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S60CrN9p7GsGlf8N67/giphy.gif" width="120"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=usofisto&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usofisto&layout=compact&theme=dark" alt="Top Languages" />
+</p>
