@@ -2,8 +2,8 @@
 
 **Languages:**
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **C++**
-* ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=black) **C**(в процессе изучения )
-* ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**(в процессе изучения )
+* ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=black) **C**  (в процессе изучения )
+* ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**  (в процессе изучения )
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) **TypeScript** *(в процессе изучения )*
 
 **Web Development (Frontend):**
