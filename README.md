@@ -1,9 +1,15 @@
 <h1 align="center">Привет, я Systems Engineer</h1>
 
+<!-- Анимированный текст -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Systems+Engineer;C%2B%2B+%7C+C+%7C+Python+Developer;FastAPI+%7C+CMake+Enthusiast;GameDev+%7C+Cyber+Security" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <em>«Embracing the Void, Architecting Reality.»</em>
 </p>
 
+<!-- Счетчик просмотров -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usofisto&color=blue&style=flat-square" alt="Profile Views" />
 </p>
@@ -14,7 +20,7 @@
 
 - Разрабатываю высокопроизводительные системы на C++ и Python  
 - Веб-бэкенд на FastAPI, фронтенд на TypeScript + TailwindCSS  
-- Работаю одновременно в двух ОС: **Windows 10** (основная) и **Arch Linux** (для экспериментов и разработки)  
+- Работаю одновременно в двух ОС: **Windows 10** (основная) и **Arch Linux / EndeavourOS** (для экспериментов и разработки)  
 - Активно использую **CMake** для сборки кросс-платформенных проектов на C++  
 - Применяю популярные C++ библиотеки: **Boost**, **Qt**, **OpenCV** в своих проектах  
 - Интересуюсь геймдевом, кибербезопасностью и смежными областями  
@@ -50,11 +56,13 @@
 #### Операционные системы
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F2B7B?style=for-the-badge&logo=endeavouros&logoColor=white)
 
 ---
 
-### Статистика GitHub
+### Статистика и активность
 
+<!-- Стандартная статистика -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usofisto&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -63,8 +71,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usofisto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- Трофеи -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=usofisto&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<!-- Streak Stats (НОВИНКА!) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usofisto&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Activity Graph (НОВИНКА!) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usofisto&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Metrics (НОВИНКА!) -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/usofisto?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FMoscow" alt="Metrics" width="100%" />
+</p>
+
+<!-- GitStrength Card (НОВИНКА!) -->
+<p align="center">
+  <img src="https://gitstrength.netlify.app/api/card?username=usofisto&theme=dark" alt="GitStrength Card" width="100%" />
 </p>
 
 ---
