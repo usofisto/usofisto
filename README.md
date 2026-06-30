@@ -60,21 +60,10 @@
 
 ### Статистика и активность
 
-<!-- Альтернативные ссылки (форк rickstaa) -->
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=usofisto&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=usofisto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
-<!-- Трофеи (оставляем, но если не грузится - удали) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usofisto&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
-<!-- Streak (уже работает) -->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usofisto&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -83,7 +72,7 @@
 
 ### Контакты
 
-*Контакты пока не указаны — скоро добавлю ссылки на Telegram, LinkedIn и личный сайт.*
+*Контакты пока не указаны*
 
 ---
 
