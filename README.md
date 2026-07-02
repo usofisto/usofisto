@@ -1,5 +1,6 @@
 <h1 align="center">Привет, я Systems Engineer</h1>
 
+<!-- Анимированный текст -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Systems+Engineer;C%2B%2B+%7C+C+Developer;FastAPI+%7C+CMake+Enthusiast;GameDev+%7C+Blue+Team" alt="Typing SVG" />
 </p>
@@ -8,6 +9,7 @@
   <em>«Embracing the Void, Architecting Reality.»</em>
 </p>
 
+<!-- Счетчик просмотров -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usofisto&color=blue&style=flat-square" alt="Profile Views" />
 </p>
@@ -60,10 +62,21 @@
 
 ### Статистика и активность
 
+<!-- Стандартная статистика -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usofisto&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usofisto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
+<!-- Трофеи -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usofisto&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
-
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usofisto&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -72,7 +85,7 @@
 
 ### Контакты
 
-*Контакты пока не указаны*
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cocojambossss)
 
 ---
 
