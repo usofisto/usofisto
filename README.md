@@ -9,7 +9,6 @@
   <em>«Embracing the Void, Architecting Reality.»</em>
 </p>
 
-<!-- Счетчик просмотров -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usofisto&color=blue&style=flat-square" alt="Profile Views" />
 </p>
@@ -44,31 +43,28 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-#### C++ Backend и системное программирование
+#### Backend (C++)
 ![C++17](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Winsock2](https://img.shields.io/badge/Winsock2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-#### Криптография и безопасность
-![SHA-256](https://img.shields.io/badge/SHA--256-2C3E50?style=for-the-badge&logo=hashicorp&logoColor=white)
-![ECDH](https://img.shields.io/badge/ECDH-2C3E50?style=for-the-badge&logo=ethereum&logoColor=white)
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-2C3E50?style=for-the-badge&logo=keybase&logoColor=white)
+**Winsock2** · **WebSocket** · **SHA-1** · **Base64** · **SHA-256** · **ECDH** · **AES-256-GCM**
 
 #### Инструменты сборки и мобильная разработка
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**ADB** · **MinGW (g++)**
 
 #### Инфраструктура и DevOps
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Service Worker** · **i18next** · **Cloudflare Quick Tunnel**
 
 #### Операционные системы
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
