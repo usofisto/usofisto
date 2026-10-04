@@ -1,7 +1,7 @@
-<h1 align="center">Привет, я Эржанчик / @usofisto </h1>
+<h1 align="center">Привет, я Эржанчик / @usofisto</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Systems+Engineer;C%2B%2B+%7C+C+Developer;FastAPI+%7C+CMake+Enthusiast;GameDev+%7C+Blue+Team;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Systems+Engineer;C%2B%2B+%7C+C+Developer;Reverse+Engineer;Red+Team+%7C+Blue+Team;Security+Researcher;Low-Level+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,12 +16,14 @@
 
 ### Обо мне
 
-- **Низкоуровневая & Системная разработка:** Создаю высокопроизводительные системы на C++ и C. Глубоко работаю с Win32 API для системного программирования под Windows и BCrypt API для низкоуровневых криптографических операций системы.
-- **Сетевые технологии:** Пишу на C++ асинхронные низкоуровневые сетевые сервера на чистом сокетном API (Winsock2) и WebSockets с интеграцией SQLite3. Реализую алгоритмы чанковой загрузки данных с поддержкой возобновления при обрыве.
-- **Фуллстек & Мобильная разработка:** Разрабатываю масштабируемый веб-бэкенд на FastAPI с автогенерацией OpenAPI документации. Собираю фронтенд на React + TypeScript + TailwindCSS и упаковываю в PWA-приложения с Service Worker, мультиязычностью (i18next) и Capacitor для генерации native Android APK.
-- **Интеграция & Среды:** Имею опыт интеграции Java через JNI (ручное создание JVM из нативного кода и динамическая загрузка классов). Работаю одновременно в двух ОС: Windows 10 (основная) и Arch Linux / EndeavourOS (для экспериментов и разработки).
-- **Безопасность & Криптография:** Активно интересуюсь кибербезопасностью (Blue Team) — защита сетей, мониторинг, реагирование на инциденты. Реализую алгоритмы симметричного шифрования (AES-256-CBC/GCM) через OpenSSL, SSL/TLS соединения, JWT-аутентификацию, безопасное хеширование PBKDF2 и кастомные системы HWID (аппаратные фингерпринты).
-- **Инфраструктура & Геймдев:** Использую CMake для кросс-платформенной сборки проектов, автоматизирую пайплайны в GitHub Actions. Применяю библиотеки Boost, Qt, OpenCV в своих проектах и изучаю современные паттерны, оптимизацию памяти (RAII, SecureZeroMemory) и многопоточность.
+- **Reverse Engineering:** Статический и динамический анализ бинарников (Ghidra, IDA, x64dbg, Radare2), реверс Android-приложений (Frida, JADX, apktool), ARM64 / x86-64 assembly, работа с PE-форматом.
+- **Red Team:** Post-exploitation, evasion-техники, hooking и memory patching, обход защитных механизмов, анализ античит-систем и sandbox-окружений.
+- **Blue Team:** Защита сетей, мониторинг, реагирование на инциденты, анализ malware, разбор MITRE ATT&CK.
+- **Низкоуровневая & Системная разработка:** C++ / C, Win32 API, BCrypt API, работа с памятью (RAII, SecureZeroMemory), многопоточность.
+- **Криптография:** OpenSSL, AES-256-CBC/GCM, ECDH, SSL/TLS, JWT, PBKDF2, кастомные HWID-системы.
+- **Сетевые технологии:** Асинхронные сервера на Winsock2, WebSockets, интеграция SQLite3, чанковая загрузка с resume.
+- **Backend & Integration:** FastAPI с OpenAPI, JNI-интеграция JVM из нативного кода.
+- **Среды:** Windows 10 (основная), Arch Linux / EndeavourOS (research & разработка).
 
 ---
 
@@ -31,25 +33,49 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-#### Backend & Базы данных
-![C++17](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+#### Reverse Engineering & Red Team
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-1A1A1A?style=for-the-badge&logo=ida&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=radare2&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 <table>
   <tr>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/windows-logo.png" width="28"/><br/><b>Winsock2</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/network.png" width="28"/><br/><b>WebSocket</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/api.png" width="28"/><br/><b>Win32 API</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/code.png" width="28"/><br/><b>JNI / JVM</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/binary-file.png" width="28"/><br/><b>x64dbg</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/bug.png" width="28"/><br/><b>Frida</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/android-os.png" width="28"/><br/><b>JADX / apktool</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/hacker.png" width="28"/><br/><b>Hooking</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/chip.png" width="28"/><br/><b>Memory Patching</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/security-checked.png" width="28"/><br/><b>Anti-Debug</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/cpu.png" width="28"/><br/><b>ARM64 / x86-64</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/terminal.png" width="28"/><br/><b>PE / ELF</b></td>
   </tr>
 </table>
 
-#### Безопасность, Криптография & Сети
+#### Низкоуровневая разработка & Системы
+![Windows](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-5A2C8B?style=for-the-badge&logo=boost&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/network.png" width="28"/><br/><b>Winsock2</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/api.png" width="28"/><br/><b>Win32 API</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/code.png" width="28"/><br/><b>JNI / JVM</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/plugin.png" width="28"/><br/><b>WebSocket</b></td>
+  </tr>
+</table>
+
+#### Криптография & Безопасность
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
@@ -68,42 +94,38 @@
   </tr>
 </table>
 
-#### Frontend
+#### Backend & Базы данных
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Frontend & Мобильная разработка
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-#### Инструменты сборки и мобильная разработка
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/android-os.png" width="28"/><br/><b>ADB</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/android-studio.png" width="28"/><br/><b>APK</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/service.png" width="28"/><br/><b>Service Worker</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/translate.png" width="28"/><br/><b>i18next</b></td>
+  </tr>
+</table>
+
+#### Инструменты сборки
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MinGW](https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![MSVC](https://img.shields.io/badge/MSVC-0078D6?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/android-os.png" width="28"/><br/><b>ADB</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/android-studio.png" width="28"/><br/><b>APK</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/settings.png" width="28"/><br/><b>Boost</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/layers.png" width="28"/><br/><b>Qt / OpenCV</b></td>
-  </tr>
-</table>
-
-#### Инфраструктура и DevOps
+#### Инфраструктура & DevOps
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github-github&logoColor=white)
-
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/service.png" width="28"/><br/><b>Service Worker</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/translate.png" width="28"/><br/><b>i18next</b></td>
-    <td align="center" width="120"><img src="https://img.icons8.com/color/48/000000/cloudflare.png" width="28"/><br/><b>Tunnel</b></td>
-  </tr>
-</table>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Операционные системы
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
